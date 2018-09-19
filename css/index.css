@@ -1,0 +1,30 @@
+p
+{
+	color: green;
+	border: 1px solid black;
+
+}
+#p1
+{
+	background-color: yellow;
+	border: 1px solid black;
+	font-family: comic sans;
+	width:100px
+	height:100px;
+}
+#p2
+{
+	background-color: gray;
+	border: 1px solid black;
+	font-family: comic sans;
+	width:100px
+	height:100px;
+}
+#p3
+{
+	background-color: pink;
+	border: 1px solid black;
+	font-family: comic sans;
+	width:100px
+	height:100px;
+}
