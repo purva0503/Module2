@@ -28,15 +28,47 @@ p {
 	height:300px;
 }
 /********** Large devices only **********/
+@media (min-width: 1200px) {
+  #p1 {
+    width: 80%;
+    height: 80%;
+  }
+  #p2 {
+    width: 150px;
+    height: 150px;
+  }
+  #p3 {
+  	width:100px;
+  	height:100px;
+  }
+}
 /********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  #p1 {
+    width: 50%;
+    height:50%;
+  }
+  #p2 {
+    width: 100px;
+    height: 100px;
+  }
+  #p3{
+  	width:150px;
+  	height:150px;
+  }
+  body {
+    background-color: blue;
+  }
+
 </style>
 </head>
 <body>
-<h1>Media Queries</h1>
+<h1>Menu</h1>
 
 <p id="p1"></p>
 <p id="p2"></p>
 <p id="p3"></p>
+
 
 </body>
 </html>
