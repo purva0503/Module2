@@ -1,24 +1,22 @@
+h1{
+	margin-bottom: 15px;
+}
+
 p
 {
-	color: green;
 	border: 1px solid black;
-	font-family: cursive;
-	font-style: italic;
+	margin-bottom: 15px;
 
 }
 #p1
 {
 	background-color: yellow;
-	border: 1px solid black;
-	font-family: comic sans;
-	width:100px
-	height:100px;
+	width:300px
+	height:300px;
 }
 #p2
 {
 	background-color: gray;
-	border: 1px solid black;
-	font-family: comic sans;
 	width:100px
 	height:100px;
 }
@@ -29,4 +27,12 @@ p
 	font-family: comic sans;
 	width:100px
 	height:100px;
+}
+@media (min-width:992px) and (max-width:1199px)
+{
+	#p1{width:50%;}
+	#p2{width:100px;
+		height:100px;}
+	#p3{width:150px;}	
+	body{background-color: blue; }
 }
