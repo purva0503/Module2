@@ -15,10 +15,11 @@ p {
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  color: white;
+  color: black;
+  text-align: center;
 }
 
-#Chicken{
+.Chicken{
 	width: 10px;
   height: 10px;
   border: 1px solid black;
