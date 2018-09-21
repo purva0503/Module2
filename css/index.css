@@ -111,7 +111,7 @@ p {
 
 /****Small devices only****/
 
-@media (min-width: 767px){
+/**@media (min-width: 767px){
 	.col-s-1, .col-s-2, .col-s-3{
 		float:left;
 		border:1px aqua;
@@ -125,5 +125,5 @@ p {
 .col-s-3{
 	width:25%;
 }
-}
+}**//
 
