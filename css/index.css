@@ -28,13 +28,13 @@ p {
     border: 1px solid green;
   }
   .col-lg-1 {
-    width: 33.33%;
+    width: 50%;
   }
   .col-lg-2 {
-    width: 33.33%;
+    width: 50%;
   }
   .col-lg-3 {
-    width: 33.33%;
+    width: 50%;
   }
   .col-lg-4 {
     width: 33.33%;
@@ -110,7 +110,7 @@ p {
 
 /****Small devices only****/
 
-@media (min-width: 767px){
+/**@media (min-width: 767px){
 	.col-s-1, .col-s-2, .col-s-3{
 		float:left;
 		border:1px aqua;
@@ -124,4 +124,4 @@ p {
 .col-s-3{
 	width:25%;
 }
-}
+}**/
