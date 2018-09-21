@@ -24,6 +24,19 @@ p {
 	top: 100px;
 	left: 100px;
 }
+#beef{
+	background-color: white;
+	position: relative;
+	top: 100px;
+	left: 100px;
+}
+#sushi{
+	background-color: white;
+	position: relative;
+	top: 100px;
+	left: 100px;
+}
+
 
 .row {
   width: 100%;
