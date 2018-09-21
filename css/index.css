@@ -19,22 +19,31 @@ p {
 }
 
 #chicken{
+	width: 150px;
+  height: 50px;
+  border: 1px solid black;
 	background-color: white;
-	position: relative;
+	/**position: relative;
 	top: 100px;
-	left: 100px;
+	left: 100px;**/
 }
 #beef{
+	width: 150px;
+  height: 50px;
+  border: 1px solid black;
 	background-color: white;
-	position: relative;
+	/**position: relative;
 	top: 100px;
-	left: 100px;
+	left: 100px;**/
 }
 #sushi{
+	width: 150px;
+  height: 50px;
+  border: 1px solid black;
 	background-color: white;
-	position: relative;
+/**	position: relative;
 	top: 100px;
-	left: 100px;
+	left: 100px;**/
 }
 
 
