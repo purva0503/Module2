@@ -18,8 +18,8 @@ p {
   color: white;
 }
 
-#chicken{
-	width: 150px;
+#Chicken{
+	width: 50px;
   height: 50px;
   border: 1px solid black;
 	background-color: white;
@@ -27,8 +27,8 @@ p {
 	top: 100px;
 	left: 100px;**/
 }
-#beef{
-	width: 150px;
+#Beef{
+	width: 50px;
   height: 50px;
   border: 1px solid black;
 	background-color: white;
@@ -36,8 +36,8 @@ p {
 	top: 100px;
 	left: 100px;**/
 }
-#sushi{
-	width: 150px;
+#Sushi{
+	width: 50px;
   height: 50px;
   border: 1px solid black;
 	background-color: white;
