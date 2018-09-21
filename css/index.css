@@ -18,6 +18,13 @@ p {
   color: white;
 }
 
+#chicken{
+	background-color: white;
+	position: relative;
+	top: 100px;
+	left: 100px;
+}
+
 .row {
   width: 100%;
 
@@ -125,5 +132,5 @@ p {
 .col-s-3{
 	width:25%;
 }
-}**//
+}**/
 
