@@ -13,7 +13,7 @@ p {
   border: 1px solid black;
   background-color: thistle;
   width: 1024px;
-  height: 150px;
+  height: 850px;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
@@ -23,11 +23,14 @@ p {
 }
 
 .Chicken{
-	width: 50px;
-  height: 50px;
+
+	width: 50%;
+  height: 50%;
   border: 1px solid black;
 	background-color: orange;
-	position: fixed;
+	position: relative;
+  margin:0;
+  margin-top: 25%;
 	
 }
 /**#Beef{
