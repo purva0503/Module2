@@ -17,12 +17,14 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: black;
-  text-align: justify;
+  text-align: center;
   position:relative;
+  top:50px;
+  left:50px;
 
 }
 
-.Chicken{
+/**.Chicken{
 
 	width: 50%;
   height: 50%;
