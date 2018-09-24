@@ -23,7 +23,7 @@ p {
 
 }
 
-.Chicken{
+/**.Chicken{
 
 	width: 10%;
   height: 10%;
@@ -56,7 +56,7 @@ p {
   left:1000px;
   text-align: center;
   font-style: bold;
-} 
+} **//
 
 
 .row {
