@@ -37,15 +37,15 @@ p {
   border:1px solid black;
 }
 
-.row div: nth-child(1) header{
+.row header: nth-child(1){
   background-color: pink;
 }
 
-.row div: nth-child(2) header{
+.row header: nth-child(2){
   background-color: yellow;
 }
 
-.row div: nth-child(3) header{
+.row header: nth-child(3){
   background-color: aqua;
 }
 
