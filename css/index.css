@@ -30,28 +30,33 @@ p {
   border: 1px solid black;
 	background-color: orange;
   position: absolute;
-  top:90px;
+  top:85px;
   left:1000px;
-	
+  text-align: center;
+  font-style: bold;
 }
-/**#Beef{
-	width: 50px;
-  height: 50px;
+#Beef{
+	width: 10%;
+  height: 10%;
   border: 1px solid black;
-	background-color: white;
-	/**position: relative;
-	top: 100px;
-	left: 100px;
+	background-color: orange;
+	position: absolute;
+	top:85px;
+  left:1000px;
+  text-align: center;
+  font-style: bold;
 }
 #Sushi{
-	width: 50px;
-  height: 50px;
+	width: 10%;
+  height: 10%;
   border: 1px solid black;
-	background-color: white;
-/**	position: relative;
-	top: 100px;
-	left: 100px;
-} **/
+  background-color: orange;
+  position: absolute;
+  top:85px;
+  left:1000px;
+  text-align: center;
+  font-style: bold;
+} 
 
 
 .row {
@@ -60,11 +65,11 @@ p {
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {
-  #col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+  .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
   /**  border: 1px solid blue; **/
   }
-  #col-lg-1 {
+  .col-lg-1 {
     width: 33.33%;
     position:absolute;
     top:60px;
