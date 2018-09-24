@@ -16,11 +16,13 @@ h1 {
 
 p {
   padding:10px;
+  background-color: pink;
   }
 .section{
   position:relative;
   border:1px solid black;
   margin:20px;
+  background-color: yellow;
 
 }
 .title
